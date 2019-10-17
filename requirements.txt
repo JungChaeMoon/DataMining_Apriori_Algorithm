@@ -1,0 +1,4 @@
+mock==2.0.0
+pbr==5.4.3
+pkg-resources==0.0.0
+six==1.12.0
